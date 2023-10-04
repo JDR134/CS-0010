@@ -38,7 +38,7 @@
     "x = 0\n",
     "for i in range(0, 10):\n",
     "    x= x - (f_p(x)/f_pp(x))\n",
-    "print(\"Coordinates of Minimum\", x, \",\" , f(x))"
+    "print(\"Coordinates of Maximum\", x, \",\" , f(x))"
    ]
   },
   {
