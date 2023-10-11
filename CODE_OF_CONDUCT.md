@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the **Spotify FOSS** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the **Negative quadratic** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
 Our open source community strives to:
 
@@ -67,4 +67,3 @@ We all stand on the shoulders of giants across many open source communities.  We
 * [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
 * [Contributor Covenant](http://contributor-covenant.org/)
 * [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
-* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
